@@ -1,4 +1,4 @@
-# Uthman-s-Assignment
+# R Language For Creating Data Table
 Given by Mr. Tochuwkwu from University of Ibadan, Laboratory for Interdisciplinary Statistical Analaysis
 ##Uthman Abdulrahman
 ## Replicate list of movies, artists and release years in list, dataframe and array
